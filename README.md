@@ -48,12 +48,6 @@ matplotlib
 
 seaborn
 
-Usage
-
-Download or clone this repository from GitHub:
-
-https://github.com/marufmullah50/WarOutcomeAwareness-IndiaPakistan
-
 Install the required libraries using the requirements.txt file:
 
 pip install -r requirements.txt
