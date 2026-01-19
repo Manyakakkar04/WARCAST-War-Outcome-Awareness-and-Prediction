@@ -58,11 +58,6 @@ jupyter notebook india_Vs_pakistanWar(Predicted_Sims).ipynb
 
 Run the notebook cells to generate synthetic data, perform analysis, and visualize relationships between variables.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Disclaimer
 This project uses synthetic data for educational and analytical purposes. It does not reflect real-world scenarios or predictions. The notebook’s name is used for illustrative purposes only and does not imply any real-world conflict, endorsement, or geopolitical assumption.
-
-Contributing
-Contributions, suggestions, or improvements (such as additional quantum modeling or data visualizations) are welcome. Please open an issue or submit a pull request on the GitHub repository.
